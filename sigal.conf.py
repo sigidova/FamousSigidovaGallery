@@ -185,7 +185,7 @@ google_analytics = 'UA-116681043-1'
 
 # Set zip_gallery to either False or a file name. The final archive will
 # contain all resized or original files (depending on `zip_media_format`).
-zip_gallery = 'sigidova.zip'   # False or 'archive.zip'
+# zip_gallery = 'sigidova.zip'   # False or 'archive.zip'
 # zip_media_format = 'resized'  # 'resized' or 'orig'
 
 # Specify a different locale. If set to '', the default locale is used.
